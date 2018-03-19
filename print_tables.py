@@ -5,12 +5,6 @@ Created on Fri Feb 23 22:42:25 2018
 
 @author: rick
 """
-
-#class  fileToDF (object):
-#    def __init__(self, f):
-#        """Return a Customer object whose name is *name* and starting
-#        balance is *balance*."""
-#        self.df = pd.read_csv(f)
     
 import os
 import pandas as pd
